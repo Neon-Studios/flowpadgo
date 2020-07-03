@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flowpadgo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flowpadgo/static/js/main.0457080d.chunk.js",
+    "main.js.map": "/flowpadgo/static/js/main.0457080d.chunk.js.map",
+    "runtime-main.js": "/flowpadgo/static/js/runtime-main.02c8f579.js",
+    "runtime-main.js.map": "/flowpadgo/static/js/runtime-main.02c8f579.js.map",
+    "static/js/2.14928134.chunk.js": "/flowpadgo/static/js/2.14928134.chunk.js",
+    "static/js/2.14928134.chunk.js.map": "/flowpadgo/static/js/2.14928134.chunk.js.map",
+    "index.html": "/flowpadgo/index.html",
+    "precache-manifest.1045cd8ebf3590ce0a4dc4fca7926fe0.js": "/flowpadgo/precache-manifest.1045cd8ebf3590ce0a4dc4fca7926fe0.js",
+    "service-worker.js": "/flowpadgo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flowpadgo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.14928134.chunk.js.LICENSE.txt": "/flowpadgo/static/js/2.14928134.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flowpadgo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c8f579.js",
+    "static/js/2.14928134.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0457080d.chunk.js"
+  ]
+}

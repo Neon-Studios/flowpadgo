@@ -1,4 +1,4 @@
 # flowpadgo
 cross platform drawing app in react js and fluent ui.
 
-made by firecubestudio, forked for NeonX
+made by firecubestudios, forked for NeonX
